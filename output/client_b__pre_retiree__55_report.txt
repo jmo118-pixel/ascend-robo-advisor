@@ -1,0 +1,28 @@
+==============================================================================
+ROBO ADVISOR RECOMMENDATION FOR: Client B: Pre-retiree, 55
+==============================================================================
+Age 55 | Assets $200,000 | Income $110,000 | Saving 15% now, 15% later
+Risk: willingness 3.2, capacity 3.5, effective 3.2 / 5  ->  Moderate
+Planning horizon: to age 95 at 85% confidence. Inflation assumed 2.5%.
+NOTE: Emergency reserve: 3 months of living costs = $19,775 held in cash before investing.
+
+------------------------------------------------------------------------------
+DEBT: pay down or invest?
+------------------------------------------------------------------------------
+Mortgage               mortgage      balance     $150,000  APR 3.5%  min $14,400/yr
+Total debt $150,000 against $200,000 of assets: net worth $50,000.
+  ADVICE: Mortgage (3.5% APR): below the 6% hurdle. Pay the minimum and invest the rest; paid off in year 14.
+
+------------------------------------------------------------------------------
+GOAL 1: Retirement at 65 [retirement]  (money needed in 10 years)
+------------------------------------------------------------------------------
+Recommended portfolio today:  Stocks 64%  Bonds 30%  Cash 5%
+Expected return 5.9% / yr, volatility 10.7% / yr
+Starting balance $180,225; contributions total $180,670 over 10 years.
+Projected balance at goal date: median $532,750 (10th pct $400,931, 90th pct $717,359), i.e. $416,184 in today's dollars.
+At retirement the portfolio shifts to Stocks 46%, Bonds 43%, Cash 10%.
+The median balance supports about $15,630/yr in today's dollars for 30 years with 85% confidence, plus $30,000/yr of other income = $45,630/yr total.
+  ADVICE: Expected shortfall of $24,370/yr (today's dollars) versus the $70,000/yr goal. Save more, retire later, or plan to spend less.
+  ADVICE: What it takes: no single change closes this gap. Combine a higher savings rate with a later retirement, or plan on about $45,630/yr of spending.
+
+Charts saved to output/client_b__pre_retiree__55_charts.png

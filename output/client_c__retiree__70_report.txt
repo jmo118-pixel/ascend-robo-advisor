@@ -1,0 +1,20 @@
+==============================================================================
+ROBO ADVISOR RECOMMENDATION FOR: Client C: Retiree, 70
+==============================================================================
+Age 70 | Assets $2,000,000 | Income $0 | Saving 0% now, 0% later
+Risk: willingness 3.8, capacity 3.8, effective 3.8 / 5  ->  Aggressive
+Planning horizon: to age 95 at 85% confidence. Inflation assumed 2.5%.
+NOTE: Emergency reserve: 3 months of living costs = $30,000 held in cash before investing.
+
+------------------------------------------------------------------------------
+GOAL 1: Retirement spending [retirement]  (money needed in 0 years)
+------------------------------------------------------------------------------
+Recommended portfolio today:  Stocks 51%  Bonds 39%  Cash 10%
+Expected return 5.4% / yr, volatility 8.7% / yr
+Spending $120,000/yr minus $40,000 other income = $80,000/yr from the portfolio (4.1% initial withdrawal rate).
+Probability the money lasts 25 years (to age 95): 90%.
+Maximum sustainable spending at 85% confidence: $124,319/yr (today's dollars, incl. other income).
+Median balance left at age 95: $1,881,812 (potential bequest).
+  ADVICE: Spending plan is sustainable. Keep about two years of spending in cash and rebalance annually.
+
+Charts saved to output/client_c__retiree__70_charts.png

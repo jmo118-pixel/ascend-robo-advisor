@@ -1,0 +1,45 @@
+==============================================================================
+ROBO ADVISOR RECOMMENDATION FOR: Client A: Early-career saver, 30
+==============================================================================
+Age 30 | Assets $40,000 | Income $90,000 | Saving 20% now, 15% later
+Risk: willingness 3.4, capacity 3.8, effective 3.4 / 5  ->  Moderate
+Planning horizon: to age 95 at 85% confidence. Inflation assumed 2.5%.
+NOTE: Emergency reserve: 3 months of living costs = $16,650 held in cash before investing.
+
+------------------------------------------------------------------------------
+DEBT: pay down or invest?
+------------------------------------------------------------------------------
+Credit card            credit card   balance       $4,000  APR 22.0%  min $1,200/yr
+Student loan           student loan  balance      $30,000  APR 5.5%  min $4,200/yr
+Total debt $34,000 against $40,000 of assets: net worth $6,000.
+Attacking high-rate debt first saves about $3,123 of interest versus minimum payments only.
+$3,680 of savings is diverted to debt paydown before it can go to your goals.
+  ADVICE: Credit card (22.0% APR): paying this down is a guaranteed 22.0% return, better than the 7% expected from stocks. Direct savings here before investing; paid off in year 1.
+  ADVICE: Student loan (5.5% APR): below the 6% hurdle. Pay the minimum and invest the rest; paid off in year 10.
+
+------------------------------------------------------------------------------
+GOAL 1: House down payment [house]  (money needed in 2 years)
+------------------------------------------------------------------------------
+Recommended portfolio today:  Stocks 0%  Bonds 0%  Cash 100%
+Expected return 3.0% / yr, volatility 1.0% / yr
+Starting balance $17,512; contributions total $23,002 over 2 years.
+Projected balance at goal date: median $41,905 (10th pct $41,457, 90th pct $42,363), i.e. $39,886 in today's dollars.
+Target $60,000: probability of reaching it = 0%.
+A $60,000 down payment (20%) implies a $300,000 home and a $240,000 mortgage: about $1,532/month at 6.5%, $1,907/month with taxes and upkeep = 24% of your projected income then.
+  ADVICE: Save about $9,271 more per year toward this goal, or push the date out.
+  ADVICE: Housing cost is within the 28% guideline, so the mortgage looks affordable.
+  ADVICE: What it takes: raise your savings rate to about 34%.
+
+------------------------------------------------------------------------------
+GOAL 2: Retirement at 65 [retirement]  (money needed in 35 years)
+------------------------------------------------------------------------------
+Recommended portfolio today:  Stocks 93%  Bonds 2%  Cash 5%
+Expected return 6.7% / yr, volatility 14.9% / yr
+Starting balance $5,838; contributions total $798,691 over 35 years.
+Projected balance at goal date: median $2,000,561 (10th pct $1,236,862, 90th pct $3,533,125), i.e. $842,978 in today's dollars.
+At retirement the portfolio shifts to Stocks 48%, Bonds 42%, Cash 10%.
+The median balance supports about $31,582/yr in today's dollars for 30 years with 85% confidence, plus $25,000/yr of other income = $56,582/yr total.
+  ADVICE: Expected shortfall of $13,418/yr (today's dollars) versus the $70,000/yr goal. Save more, retire later, or plan to spend less.
+  ADVICE: What it takes: raise your savings rate to about 22%, or move the date out 5 years (retire at 70).
+
+Charts saved to output/client_a__early_career_saver__30_charts.png
